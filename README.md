@@ -5,4 +5,4 @@
 
 <video src="https://github.com/Kaguya233qwq/bcy_finall_program/blob/main/resource/video.mp4?row=true"></video>
 
-[![NetFlix on UWP](https://github.com/Kaguya233qwq/bcy_finall_program/blob/main/resource/video.mp4?row=true)]("NetFlix on UWP")
+[![NetFlix on UWP](https://github.com/Kaguya233qwq/bcy_finall_program/blob/main/resource/video.png?row=true)]
