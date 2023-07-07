@@ -3,6 +3,6 @@
 
 使用方式：直接运行release发布的exe即可
 
-<iframe height=498 width=510 src="[在线视频链接](https://github.com/Kaguya233qwq/bcy_finall_program/blob/main/resource/video.mp4?row=true)">
+<iframe height=498 width=510 src="https://github.com/Kaguya233qwq/bcy_finall_program/blob/main/resource/video.mp4?row=true">
 
 [![NetFlix on UWP](https://github.com/Kaguya233qwq/bcy_finall_program/blob/main/resource/video.mp4?row=true)]
